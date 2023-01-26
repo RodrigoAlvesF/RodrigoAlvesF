@@ -1,11 +1,12 @@
-Olá, eu sou o Rodrigo Alves
+<b>Olá, eu sou o <stan>Rodrigo Alves</stan></b>
 
- <a href="https://github.com/RodrigoAlvesF">
+##
  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoAlvesF&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoAlvesF&layout=compact&langs_count=8&theme=dracula"/>
   <div style="display: inline_block"><br>
-  <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+  <img alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   ##
 

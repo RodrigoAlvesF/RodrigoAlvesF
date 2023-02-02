@@ -1,14 +1,22 @@
 <div align="center">
-    <b>Olá, eu sou o <stan>Rodrigo Alves</stan></b>
-  
-  <img align="right" src="https://media0.giphy.com/media/h58dtf5vTpjulO4M5o/giphy.gif?cid=ecf05e473y772dta90n1cz9c3u78f078ero5v9dp4s4nf22q&rid=giphy.gif&ct=g" height="350px" alt="pixel city image">
+    <h1>Olá, eu sou o <stan>Rodrigo Alves</stan></h1>
+      
+  <img align="right" src="https://64.media.tumblr.com/dd12f9c6a01dd1396b848a461b91a688/95d61a7d30c4861b-12/s1280x1920/5ac783f02a40cce01b0ffab8de75faa9e7a14c52.gif" height="300px" alt="pixel city image"><br>
 
 
-Graduando Análise e desenvolvimento de sistemas. Quero criar minha carreira como programador e atualmente estou focado em HTML + CSS e Javascript.
-Familiarizado com hardware porém me apaixonei pelo software após conhecer a programação e iniciei meus estudos com lógica da programação pela plataforma Udemy. Desde que me interessei pela área venho estudando diariamente para me aprimorar cada vez mais, tenho facilidade em aprendizado e estou preparado pela primeira oportunidade para poder adquirir experiência com a empresa e somar com todo conhecimento que tenho e irei obter nessa trajetória. <br><br><br>
+<div align="left">
+    
+* 👨‍💻 Graduando Análise e desenvolvimento de sistemas. <br><br>
+    
+* 🌳 Atualmente aprendendo CSS e Bootstrap, em seguida começarei estudos em Javascript! <br><br>
 
- <br><br><br><br><br>
- 
+* ☕ Familiarizado com Hardware. <br><br>
+
+* 🎲 Hobbies: Game, Anime, Estudo, Praia, Motorcycle, Horror Series e Filmes. <br><br>
+</div>
+    
+  ##
+    
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoAlvesF&layout=compact&langs_count=8&card_width=540&theme=radical&custom_title=true">
   
   <br>

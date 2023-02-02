@@ -19,7 +19,7 @@
   ##
  
  
-<br><h2>⚙️ Technologies and Skills
+<h2>⚙️ Technologies and Skills
 <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/animated-flame-01.gif" width="20px" align="left"/>
 <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/animated-flame-01.gif" width="20px" align="right"/>
 <img src="https://i.imgur.com/XSxwP3k.gif" width="100%">

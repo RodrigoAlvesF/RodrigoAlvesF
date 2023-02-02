@@ -1,7 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/animated-flame-01.gif" width="15px" align="left"/>
-<img src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/animated-flame-01.gif" width="15px" align="right"/>
-<h1>Olá, eu sou o <stan>Rodrigo Alves</stan><br><br>
+<h1>Olá, eu sou o <stan>Rodrigo Alves</stan></h1>
     
 <img align="right" src="https://pa1.narvii.com/7712/285da1b7336737928fad2f6a54192d9992dd714br1-900-1200_hq.gif" height="500px" alt="pixel city image">
     
@@ -17,9 +15,10 @@
 
 * 🎲 Hobbies: Game, Anime, Estudo, Praia, Motorcycle, Horror Series e Filmes. <br><br>
 </div>
+
+<br>
     
   ##
- 
  
 <h2>⚙️ Technologies and Skills
 <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/master/assets/animated-flame-01.gif" width="20px" align="left"/>

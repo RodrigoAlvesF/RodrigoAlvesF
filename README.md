@@ -3,7 +3,7 @@
       
 <img align="right" src="https://pa1.narvii.com/7712/285da1b7336737928fad2f6a54192d9992dd714br1-900-1200_hq.gif" height="560px" alt="pixel city image">
     
-<h3 align="center"> <img src="https://static.wikia.nocookie.net/wingsoffirefanon/images/6/63/Firegif.gif/revision/latest/scale-to-width-down/1920?cb=20190525014138" height="35px"/>  Um pouco sobre mim  <img src="https://static.wikia.nocookie.net/wingsoffirefanon/images/6/63/Firegif.gif/revision/latest/scale-to-width-down/1920?cb=20190525014138" height="35px"/></h3><br>
+<h3 align="center"> <img src="https://static.wikia.nocookie.net/wingsoffirefanon/images/6/63/Firegif.gif/revision/latest/scale-to-width-down/1920?cb=20190525014138" height="35px"/>  Um pouco sobre mim  <img src="https://static.wikia.nocookie.net/wingsoffirefanon/images/6/63/Firegif.gif/revision/latest/scale-to-width-down/1920?cb=20190525014138" height="35px"/></h3><br><br>
     
 <div align="left">
     

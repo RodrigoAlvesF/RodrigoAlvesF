@@ -29,7 +29,7 @@
 
 <br>
  
-<img src="https://skillicons.dev/icons?i=git,github,html,css,vscode" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,vscode" alt="skills logos" />
 <br>
 <img src="https://skillicons.dev/icons?i=ai,ps" alt="skills logos" /> <br><br>
 

@@ -13,7 +13,7 @@
 
 * ☕ Familiarizado com Hardware. <br><br><br>
 
-* 🎲 Hobbies: Game, Anime, Estudo, Praia, Motorcycle, Horror Series e Filmes. <br><br>
+* 🎲 Hobbies: Jogos, animes, estudos, praia, motos, series e filmes de terror. <br><br>
 </div>
 
 <br>

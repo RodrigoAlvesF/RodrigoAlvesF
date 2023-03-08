@@ -9,7 +9,7 @@
     
 * 👨‍💻 Graduando Análise e desenvolvimento de sistemas. <br><br><br>
     
-* 🌳 Atualmente aprendendo CSS e Bootstrap, em seguida começarei estudos em Javascript! <br><br><br>
+* 🌳 Atualmente aprendendo Javascript e procurando aprimorar meu CSS! <br><br><br>
 
 * ☕ Familiarizado com Hardware. <br><br><br>
 
@@ -31,10 +31,16 @@
  
 <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,vscode" alt="skills logos" />
 <br>
-<img src="https://skillicons.dev/icons?i=ai,ps" alt="skills logos" /> <br><br>
-
+<img src="https://skillicons.dev/icons?i=ai,ps" alt="skills logos" />
+<br>
+<br>
+Learning:
+<br>
+<img src="https://skillicons.dev/icons?i=javascript" alt="skills logos" />
+<br>
 </h2>
     
   <div>
 <br><a href="https://www.linkedin.com/in/rodrigoalvesprog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto: rodrigofidem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  </div>
+ <a href = "mailto: rodrigofidem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+    </div>

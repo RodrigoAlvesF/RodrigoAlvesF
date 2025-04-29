@@ -7,9 +7,9 @@
     
 <div align="left">
     
-* 👨‍💻 Graduando Análise e desenvolvimento de sistemas. <br><br><br>
+* 👨‍💻 Graduando Engenharia de Software. <br><br><br>
     
-* 🌳 Atualmente aprendendo Javascript e procurando aprimorar meu CSS! <br><br><br>
+* 🌳 <br><br><br>
 
 * ☕ Familiarizado com Hardware. <br><br><br>
 
